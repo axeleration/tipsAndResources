@@ -2,10 +2,6 @@
 
 #### Contributions by le Wagon Amsterdam, Batch 38, edited by axeleration
 
-## 0. Table of Contents
-* auto-gen TOC:
-{:toc}
-
 ## 1. Terminal
 
 ### 1.1 Basic syntax
